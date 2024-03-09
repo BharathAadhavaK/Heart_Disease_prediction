@@ -10,7 +10,7 @@
 - **Machine Learning:** Various machine learning algorithms are explored and compared to identify the most suitable model for predicting heart diseases.
 
 **Key Achievements:**
-- **Model Accuracy:** Through rigorous experimentation and feature engineering, the project achieved an impressive model accuracy of 82%. This high accuracy underscores the effectiveness of the predictive model in identifying potential liver disease cases.
+- **Model Accuracy:** Through rigorous experimentation and feature engineering, the project achieved an impressive model accuracy of 91%. This high accuracy underscores the effectiveness of the predictive model in identifying potential heart disease cases.
 - **Data Visualization:** The project includes insightful data visualizations using Seaborn, allowing for a better understanding of the dataset and its characteristics.
 - **Machine Learning:** Different classification algorithms, such as decision tree classification and logistic regression, were employed to create the predictive model. The final model was selected based on its superior performance.
 
